@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite this repository and the associated manuscript."
+type: software
+title: "GuardrailServe research artifacts"
+version: "submission-2026-10-25"
+date-released: "2026-10-25"
+url: "https://github.com/Hambuger516/GuardrailServe"
+authors:
+  - family-names: Ma
+    given-names: Hanbo
+    orcid: "https://orcid.org/0009-0000-9369-2445"
+  - family-names: Li
+    given-names: Zhongguo
+  - family-names: Tang
+    given-names: Zezhi
+  - family-names: Yang
+    given-names: Jun
+  - family-names: Ding
+    given-names: Zhengtao

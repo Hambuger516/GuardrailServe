@@ -1,0 +1,12 @@
+test_cold_start_and_window (test_pfs_fidelity.FidelityTests.test_cold_start_and_window) ... ok
+test_completion_release_peak_by_hand (test_pfs_fidelity.FidelityTests.test_completion_release_peak_by_hand) ... ok
+test_ignore_eos_bypasses_history (test_pfs_fidelity.FidelityTests.test_ignore_eos_bypasses_history) ... ok
+test_one_admission_and_head_of_line (test_pfs_fidelity.FidelityTests.test_one_admission_and_head_of_line) ... ok
+test_sampling_count_boundaries (test_pfs_fidelity.FidelityTests.test_sampling_count_boundaries) ... ok
+test_seeded_sampling_and_admission_match_120_cases (test_pfs_fidelity.FidelityTests.test_seeded_sampling_and_admission_match_120_cases) ... ok
+test_strict_reserve_boundary (test_pfs_fidelity.FidelityTests.test_strict_reserve_boundary) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.046s
+
+OK
